@@ -27,8 +27,10 @@
 </p>
 
 ### Banco de Dados
+- SQLite (projetos locais e protótipos)
+- PostgreSQL / MySQL (ambientes mais robustos)
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql" />
 </p>
 
 ---
