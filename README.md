@@ -14,6 +14,8 @@
 
 ---
 
+## 🛠️ Stack Tecnológica
+
 ### Linguagens
 <p>
   <img src="https://skillicons.dev/icons?i=python,html,css" />
