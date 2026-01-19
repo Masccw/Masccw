@@ -1,7 +1,7 @@
 # Marina Carvalho
 
 > Estudante de Análise e Desenvolvimento de Sistemas (ADS).  
-> Foco em **Dados, Inteligência Artificial e Cibersegurança**
+> Foco em **Data, Artificial Inteligence e Cibersecurity**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marina-carvalho-bb96a3267)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:masocacads@gmail.com)
@@ -9,8 +9,8 @@
 ---
 
 ## Áreas de Interesse
-- Análise e tratamento de dados
-- Aprendizado de máquina
+- Data science e analytics
+- Machine Learning
 
 ---
 
