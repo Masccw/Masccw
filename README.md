@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=django,bootstrap" />
 </p>
 
-### Banco de Dados
+### Database
 - SQLite (projetos locais e protótipos)
 - PostgreSQL / MySQL (ambientes mais robustos)
 <p>
